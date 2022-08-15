@@ -130,7 +130,7 @@ img {
     margin-bottom: 15px;
 }
 
-/*flex collumn*/
+/*flex column*/
 .flex-columns .row {
     display: flex;
     flex-direction: row;
@@ -190,15 +190,12 @@ img {
 }
 
 /*callback form*/
-.callback-form {
-    width: 100%;
-    padding: 20px 0;
-}
+btn
 
-.callback-form label {
-    display: block;
-    margin-bottom: 5px;
-}
+    .callback-form label {
+        display: block;
+        margin-bottom: 5px;
+    }
 
 .callback-form .form-control {
     margin-bottom: 15px;
