@@ -1,1 +1,1 @@
-Basic company with html & css
+Basic company website with html & css
